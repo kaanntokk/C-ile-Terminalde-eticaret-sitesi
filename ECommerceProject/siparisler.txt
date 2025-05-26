@@ -1,0 +1,72 @@
+=== Yeni Siparis ===
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 1
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 2
+Bilgisayar x1 = 10000 TL
+Toplam Tutar: 10000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 3
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 4
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 5
+Klavye x1 = 300 TL
+Bilgisayar x1 = 10000 TL
+Toplam Tutar: 10300 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 6
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 7
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 8
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 9
+Telefon x3 = 15000 TL
+Toplam Tutar: 15000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 10
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+
+=== Yeni Siparis ===
+Siparis ID: 11
+Telefon x1 = 5000 TL
+Toplam Tutar: 5000 TL
+Siparis Durumu: Hazirlaniyor
+

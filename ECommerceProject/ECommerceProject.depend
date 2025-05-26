@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1745847611 source:c:\users\admin\desktop\ecommerceproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
